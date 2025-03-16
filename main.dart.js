@@ -91978,7 +91978,7 @@ ae(){return new A.Ye(null,null,B.j)}}
 A.Ye.prototype={
 ar(){var s,r=this,q=null
 r.aO()
-s=new A.Du("https://nyermol.github.io/wedding_invitation_assets/main_video.mp4",B.Xg,$.au())
+s=new A.Du("https://github.com/nyermol/wedding_invitation_assets/raw/refs/heads/main/main_video.mp4",B.Xg,$.au())
 s.hE().bp(new A.apZ(r),t.P)
 r.d=s
 r.e=A.bC(q,B.aS,q,q,r)
