@@ -90318,7 +90318,7 @@ p=t.V
 o=t._
 q.CW=new A.bf(new A.am($.a8,p),o)
 n=A.b_("dataSourceDescription")
-switch(0){case 0:n.b=new A.a1W(null)
+switch(1){case 1:n.b=new A.a1W(q.w)
 break}s=2
 return A.D(A.o2().jx(n.aD()),$async$hE)
 case 2:m=b
@@ -91978,7 +91978,7 @@ ae(){return new A.Ye(null,null,B.j)}}
 A.Ye.prototype={
 ar(){var s,r=this,q=null
 r.aO()
-s=new A.Du("assets/video/main_video.mp4",B.Xg,$.au())
+s=new A.Du("https://github.com/nyermol/wedding_invitation_assets/raw/refs/heads/main/main_video.mp4",B.Xg,$.au())
 s.hE().bp(new A.apZ(r),t.P)
 r.d=s
 r.e=A.bC(q,B.aS,q,q,r)
@@ -92066,13 +92066,12 @@ q===$&&A.a()
 p=t.p
 return A.at0(A.jX(B.cW,A.b([s,A.aAE(B.A,A.f9(A.dS(A.b([h,r,A.e9(q,new A.apR(o,m,l,k+j-l-j),n),A.bq(a,1),A.e9(o.f,new A.apS(o,m),n)],p),B.S,B.bF,B.P),n,n))],p),B.a3,B.bJ),B.ag,B.aS,i)}}
 A.apZ.prototype={
-$1(a){var s=this.a
-s.ah(new A.apY())
-s=s.d
-s===$&&A.a()
-s.x4(!0)
-s.xf(0)
-s.rr()},
+$1(a){var s=this.a,r=s.d
+r===$&&A.a()
+r.x4(!0)
+r.xf(0)
+r.rr()
+s.ah(new A.apY())},
 $S:12}
 A.apY.prototype={
 $0(){},
@@ -95668,7 +95667,7 @@ B.cb=new A.tf(B.l9,null,null,null,null,null,null,null)
 B.fm=new A.y8(!1,null)
 B.n_=new A.y8(!0,null)
 B.FL=new A.a1V(1,"latency")
-B.Z3=new A.a1X(0,"asset")
+B.Z3=new A.a1X(1,"network")
 B.FM=new A.y9(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.FN=new A.ya(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.n0=new A.oD(0,"uninitialized")
